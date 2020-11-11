@@ -33,4 +33,3 @@ for i in range(100):
 	else:
 		afficher = afficher + str(i)
 	print(afficher)
-        print("c'est tout")
